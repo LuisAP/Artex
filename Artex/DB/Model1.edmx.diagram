@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="17fdc48139244bf887376600d20fb3e0" Name="Diagram1">
+        <EntityTypeShape EntityType="artexModel.alerta_pagos" Width="1.5" PointX="5.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.almacen" Width="1.5" PointX="7.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.archivo" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.archivos" Width="1.5" PointX="8.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.area_almacen" Width="1.5" PointX="9.75" PointY="6.75" />
+        <EntityTypeShape EntityType="artexModel.area_trabajo" Width="1.5" PointX="1.5" PointY="62.25" />
+        <EntityTypeShape EntityType="artexModel.AspNetRoles" Width="1.5" PointX="1.5" PointY="106.375" />
+        <EntityTypeShape EntityType="artexModel.AspNetUserClaims" Width="1.5" PointX="6" PointY="83.125" />
+        <EntityTypeShape EntityType="artexModel.AspNetUserLogins" Width="1.5" PointX="6" PointY="85.75" />
+        <EntityTypeShape EntityType="artexModel.AspNetUsers" Width="1.5" PointX="3.75" PointY="82.75" />
+        <EntityTypeShape EntityType="artexModel.atributo" Width="1.5" PointX="1.5" PointY="35.5" />
+        <EntityTypeShape EntityType="artexModel.atributo_subatributo" Width="1.5" PointX="3.75" PointY="23.25" />
+        <EntityTypeShape EntityType="artexModel.atributo_tipo" Width="1.5" PointX="0.75" PointY="24.125" />
+        <EntityTypeShape EntityType="artexModel.bancos" Width="1.5" PointX="1.5" PointY="94.125" />
+        <EntityTypeShape EntityType="artexModel.bolo" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.bolo_composicion" Width="1.5" PointX="10.75" PointY="3.75" />
+        <EntityTypeShape EntityType="artexModel.bultos" Width="1.5" PointX="11.75" PointY="6.75" />
+        <EntityTypeShape EntityType="artexModel.canal_venta" Width="1.5" PointX="11.75" PointY="10.75" />
+        <EntityTypeShape EntityType="artexModel.catalogo_zonas" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.cliente" Width="1.5" PointX="1.5" PointY="82.25" />
+        <EntityTypeShape EntityType="artexModel.color_mezcla" Width="1.5" PointX="12.75" PointY="3.75" />
+        <EntityTypeShape EntityType="artexModel.color_mezcla_formulacion" Width="1.5" PointX="13.75" PointY="6.75" />
+        <EntityTypeShape EntityType="artexModel.comentarios" Width="1.5" PointX="6" PointY="0.875" />
+        <EntityTypeShape EntityType="artexModel.concepto_producto" Width="1.5" PointX="13.75" PointY="9.75" />
+        <EntityTypeShape EntityType="artexModel.configuracion_producto" Width="1.5" PointX="3" PointY="15.125" />
+        <EntityTypeShape EntityType="artexModel.configuracion_producto_cotizado" Width="1.5" PointX="11.75" PointY="13.75" />
+        <EntityTypeShape EntityType="artexModel.configuracion_producto_piso" Width="1.5" PointX="6" PointY="19.375" />
+        <EntityTypeShape EntityType="artexModel.configuracion_sistema" Width="1.5" PointX="13.75" PointY="12.75" />
+        <EntityTypeShape EntityType="artexModel.control_cambios" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.corte_caja_diario" Width="1.5" PointX="15.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.costos_fabricacion" Width="1.5" PointX="15.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.cotizacion" Width="1.5" PointX="0.75" PointY="58" />
+        <EntityTypeShape EntityType="artexModel.cotizacion_producto" Width="1.5" PointX="3" PointY="19" />
+        <EntityTypeShape EntityType="artexModel.criterio_de_evaluacion" Width="1.5" PointX="15.75" PointY="10.75" />
+        <EntityTypeShape EntityType="artexModel.cuenta" Width="1.5" PointX="1.5" PointY="89.625" />
+        <EntityTypeShape EntityType="artexModel.cuentas_por_cobrar" Width="1.5" PointX="13.75" PointY="15.75" />
+        <EntityTypeShape EntityType="artexModel.cuentas_por_pagar" Width="1.5" PointX="15.75" PointY="14.75" />
+        <EntityTypeShape EntityType="artexModel.descuentos" Width="1.5" PointX="3" PointY="11.5" />
+        <EntityTypeShape EntityType="artexModel.devoluciones" Width="1.5" PointX="16.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.direccion" Width="1.5" PointX="1.5" PointY="97.125" />
+        <EntityTypeShape EntityType="artexModel.disenio" Width="1.5" PointX="17.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.empleado" Width="1.5" PointX="1.5" PointY="65.5" />
+        <EntityTypeShape EntityType="artexModel.empresa" Width="1.5" PointX="1.5" PointY="2" />
+        <EntityTypeShape EntityType="artexModel.estado" Width="1.5" PointX="17.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.estatus_pedido" Width="1.5" PointX="17.75" PointY="10.75" />
+        <EntityTypeShape EntityType="artexModel.estatus_servicio" Width="1.5" PointX="17.75" PointY="13.75" />
+        <EntityTypeShape EntityType="artexModel.estatus_sku" Width="1.5" PointX="15.75" PointY="17.75" />
+        <EntityTypeShape EntityType="artexModel.estilo_producto" Width="1.5" PointX="17.75" PointY="16.75" />
+        <EntityTypeShape EntityType="artexModel.etiquetas" Width="1.5" PointX="18.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.exedentes" Width="1.5" PointX="11.75" PointY="18.75" />
+        <EntityTypeShape EntityType="artexModel.factor_canal_familia" Width="1.5" PointX="9" PointY="11.875" />
+        <EntityTypeShape EntityType="artexModel.factor_canal_linea" Width="1.5" PointX="3" PointY="27.375" />
+        <EntityTypeShape EntityType="artexModel.factor_canal_producto" Width="1.5" PointX="3" PointY="40.625" />
+        <EntityTypeShape EntityType="artexModel.factor_fabrica_familia" Width="1.5" PointX="9" PointY="18.75" />
+        <EntityTypeShape EntityType="artexModel.factor_fabrica_linea" Width="1.5" PointX="3" PointY="48.25" />
+        <EntityTypeShape EntityType="artexModel.factor_fabrica_producto" Width="1.5" PointX="3" PointY="31.5" />
+        <EntityTypeShape EntityType="artexModel.factura" Width="1.5" PointX="19.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.familia_producto" Width="1.5" PointX="0.75" PointY="20.375" />
+        <EntityTypeShape EntityType="artexModel.forma_de_pago" Width="1.5" PointX="19.75" PointY="8.75" />
+        <EntityTypeShape EntityType="artexModel.formulacion" Width="1.5" PointX="6" PointY="11.5" />
+        <EntityTypeShape EntityType="artexModel.formulacion_comodin" Width="1.5" PointX="6" PointY="15.375" />
+        <EntityTypeShape EntityType="artexModel.grupo" Width="1.5" PointX="19.75" PointY="11.75" />
+        <EntityTypeShape EntityType="artexModel.insumo" Width="1.5" PointX="3.75" PointY="35.5" />
+        <EntityTypeShape EntityType="artexModel.linea" Width="1.5" PointX="19.75" PointY="14.75" />
+        <EntityTypeShape EntityType="artexModel.linea_negocio" Width="1.5" PointX="0.75" PointY="9.375" />
+        <EntityTypeShape EntityType="artexModel.linea_producto" Width="1.5" PointX="19.75" PointY="17.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios" Width="1.5" PointX="20.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.maquinaria" Width="1.5" PointX="13.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.materia_prima" Width="1.5" PointX="6" PointY="33" />
+        <EntityTypeShape EntityType="artexModel.modulo" Width="1.5" PointX="1.5" PointY="113.625" />
+        <EntityTypeShape EntityType="artexModel.ofertas" Width="1.5" PointX="15.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.orden_de_compra" Width="1.5" PointX="17.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.pagos_realizados" Width="1.5" PointX="19.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.pagos_recibidos" Width="1.5" PointX="21.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.pais" Width="1.5" PointX="21.75" PointY="8.75" />
+        <EntityTypeShape EntityType="artexModel.pedido" Width="1.5" PointX="21.75" PointY="11.75" />
+        <EntityTypeShape EntityType="artexModel.permisos_especiales" Width="1.5" PointX="1.5" PointY="117.375" />
+        <EntityTypeShape EntityType="artexModel.permisos_modulo" Width="1.5" PointX="3.75" PointY="112" />
+        <EntityTypeShape EntityType="artexModel.persona_contacto" Width="1.5" PointX="1.5" PointY="102.25" />
+        <EntityTypeShape EntityType="artexModel.persona_fisica" Width="1.5" PointX="1.5" PointY="75.25" />
+        <EntityTypeShape EntityType="artexModel.persona_moral" Width="1.5" PointX="3.75" PointY="104.625" />
+        <EntityTypeShape EntityType="artexModel.piezas_configurables" Width="1.5" PointX="3.75" PointY="7.25" />
+        <EntityTypeShape EntityType="artexModel.piezas_producto" Width="1.5" PointX="9" PointY="15.625" />
+        <EntityTypeShape EntityType="artexModel.presupuesto_anual_general" Width="1.5" PointX="21.75" PointY="16.75" />
+        <EntityTypeShape EntityType="artexModel.presupuesto_anual_por_criterio" Width="1.5" PointX="21.75" PointY="19.75" />
+        <EntityTypeShape EntityType="artexModel.presupuesto_por_empleado" Width="1.5" PointX="22.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.presupuesto_semanal" Width="1.5" PointX="5.75" PointY="22.75" />
+        <EntityTypeShape EntityType="artexModel.proceso_fabricacion" Width="1.5" PointX="7.75" PointY="22.75" />
+        <EntityTypeShape EntityType="artexModel.proceso_maquina" Width="1.5" PointX="9.75" PointY="22.75" />
+        <EntityTypeShape EntityType="artexModel.procesos_de_fabricacion" Width="1.5" PointX="3.75" PointY="4.125" />
+        <EntityTypeShape EntityType="artexModel.producto" Width="1.5" PointX="0.75" PointY="13.625" />
+        <EntityTypeShape EntityType="artexModel.producto_orden_de_compra" Width="1.5" PointX="21.75" PointY="22.75" />
+        <EntityTypeShape EntityType="artexModel.producto_proveedor" Width="1.5" PointX="23.75" PointY="4.75" />
+        <EntityTypeShape EntityType="artexModel.programa" Width="1.5" PointX="23.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.programacion_semanal" Width="1.5" PointX="23.75" PointY="10.75" />
+        <EntityTypeShape EntityType="artexModel.proveedor" Width="1.5" PointX="3.75" PointY="94.5" />
+        <EntityTypeShape EntityType="artexModel.puntuacion" Width="1.5" PointX="11.75" PointY="23.75" />
+        <EntityTypeShape EntityType="artexModel.puntuacion__proceso" Width="1.5" PointX="13.75" PointY="23.75" />
+        <EntityTypeShape EntityType="artexModel.rol" Width="1.5" PointX="1.5" PointY="110.25" />
+        <EntityTypeShape EntityType="artexModel.salida_de_mercancia" Width="1.5" PointX="23.75" PointY="15.75" />
+        <EntityTypeShape EntityType="artexModel.segmento" Width="1.5" PointX="23.75" PointY="19.75" />
+        <EntityTypeShape EntityType="artexModel.servicio_garantia" Width="1.5" PointX="23.75" PointY="22.75" />
+        <EntityTypeShape EntityType="artexModel.sett" Width="1.5" PointX="24.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.sett_producto" Width="1.5" PointX="15.75" PointY="24.75" />
+        <EntityTypeShape EntityType="artexModel.stock_intranet" Width="1.5" PointX="17.75" PointY="24.75" />
+        <EntityTypeShape EntityType="artexModel.stock_tienda" Width="1.5" PointX="25.75" PointY="3.75" />
+        <EntityTypeShape EntityType="artexModel.stok_insumo" Width="1.5" PointX="5.75" PointY="25.75" />
+        <EntityTypeShape EntityType="artexModel.stok_producto" Width="1.5" PointX="25.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.subprocesos_de_fabricacion" Width="1.5" PointX="6" PointY="4" />
+        <EntityTypeShape EntityType="artexModel.tienda" Width="1.5" PointX="1.5" PointY="71" />
+        <EntityTypeShape EntityType="artexModel.tipo_almacen" Width="1.5" PointX="7.75" PointY="25.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_configuracion" Width="1.5" PointX="25.75" PointY="11.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_de_costo" Width="1.5" PointX="25.75" PointY="14.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_explosionado" Width="1.5" PointX="25.75" PointY="17.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_insumo" Width="1.5" PointX="19.75" PointY="25.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_pedido" Width="1.5" PointX="25.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.tipo_programa" Width="1.5" PointX="3.75" PointY="0.875" />
+        <EntityTypeShape EntityType="artexModel.tipo_venta" Width="1.5" PointX="25.75" PointY="23.75" />
+        <EntityTypeShape EntityType="artexModel.traspaso" Width="1.5" PointX="9.75" PointY="26.75" />
+        <EntityTypeShape EntityType="artexModel.unidad_de_negocio" Width="1.5" PointX="1.5" PointY="5.625" />
+        <EntityTypeShape EntityType="artexModel.unidad_medida" Width="1.5" PointX="1.5" PointY="44.5" />
+        <EntityTypeShape EntityType="artexModel.mapeo_costos" Width="1.5" PointX="26.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.clientes_v" Width="1.5" PointX="11.75" PointY="26.75" />
+        <EntityTypeShape EntityType="artexModel.colores_v" Width="1.5" PointX="21.75" PointY="26.75" />
+        <EntityTypeShape EntityType="artexModel.empleados_v" Width="1.5" PointX="23.75" PointY="26.75" />
+        <EntityTypeShape EntityType="artexModel.formulacion_comodin_v" Width="1.5" PointX="25.75" PointY="26.75" />
+        <EntityTypeShape EntityType="artexModel.formulacion_v" Width="1.5" PointX="27.75" PointY="3.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios_cadenas_v" Width="1.5" PointX="27.75" PointY="7.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios_fabrica_v" Width="1.5" PointX="27.75" PointY="11.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios_franquicias_v" Width="1.5" PointX="13.75" PointY="27.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios_pop_v" Width="1.5" PointX="27.75" PointY="16.75" />
+        <EntityTypeShape EntityType="artexModel.lista_precios_proyectos_v" Width="1.5" PointX="27.75" PointY="20.75" />
+        <EntityTypeShape EntityType="artexModel.producto_v" Width="1.5" PointX="27.75" PointY="24.75" />
+        <EntityTypeShape EntityType="artexModel.proveedores_v" Width="1.5" PointX="28.75" PointY="0.75" />
+        <EntityTypeShape EntityType="artexModel.stock_intranet_v" Width="1.5" PointX="15.75" PointY="28.75" />
+        <EntityTypeShape EntityType="artexModel.stock_tienda_v" Width="1.5" PointX="17.75" PointY="28.75" />
+        <EntityTypeShape EntityType="artexModel.usuarios_v" Width="1.5" PointX="5.75" PointY="28.75" />
+        <AssociationConnector Association="artexModel.FK_EMPLEADO_AREA_TRABAJO" />
+        <AssociationConnector Association="artexModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="artexModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="artexModel.FK_OTHER_PERSON" />
+        <AssociationConnector Association="artexModel.FK_PERSONAL_USER" />
+        <AssociationConnector Association="artexModel.FK_ROL_USER" />
+        <AssociationConnector Association="artexModel.FK_ATRIBUTO_UM" />
+        <AssociationConnector Association="artexModel.FK_TIPO_ATRIBUTO" />
+        <AssociationConnector Association="artexModel.FK__configura__ID_AT__4AD81681" />
+        <AssociationConnector Association="artexModel.FK_CONFIGURACION_PRODUCTO_ATRIBUTO" />
+        <AssociationConnector Association="artexModel.FK_INSUMO_ATRIBUTO" />
+        <AssociationConnector Association="artexModel.FK_MP_ATRIBUTO" />
+        <AssociationConnector Association="artexModel.FK_CUENTA_BANCO" />
+        <AssociationConnector Association="artexModel.FK_CLIENTE" />
+        <AssociationConnector Association="artexModel.FK_CLIENTE_NO_CUENTA" />
+        <AssociationConnector Association="artexModel.FK_CONTACTO_EMPRESA" />
+        <AssociationConnector Association="artexModel.FK_CONTACTO_EMPRESA2" />
+        <AssociationConnector Association="artexModel.FK_DIRECCION_CLIENTE" />
+        <AssociationConnector Association="artexModel.FK_PROGRAMA" />
+        <AssociationConnector Association="artexModel.FK_CONFIGURACION_PRODUCTO_PIEZA" />
+        <AssociationConnector Association="artexModel.FK_CONFIGURACION_PRODUCTO_PROD" />
+        <AssociationConnector Association="artexModel.FK__configura__ID_PI__49E3F248" />
+        <AssociationConnector Association="artexModel.FK__configura__ID_PR__48EFCE0F" />
+        <AssociationConnector Association="artexModel.FK_COTIZACIONPROD" />
+        <AssociationConnector Association="artexModel.FK_EMPLEADO" />
+        <AssociationConnector Association="artexModel.FK_TIENDA" />
+        <AssociationConnector Association="artexModel.FK_PRODUCTO_COTIZACION" />
+        <AssociationConnector Association="artexModel.FK_PROVEEDOR_CUENTA" />
+        <AssociationConnector Association="artexModel.FK_FAMILY" />
+        <AssociationConnector Association="artexModel.FK_LINEA" />
+        <AssociationConnector Association="artexModel.FK_PRODUCT" />
+        <AssociationConnector Association="artexModel.FK_DIRECCION" />
+        <AssociationConnector Association="artexModel.FK_PERSONA_MORAL_DIRECCION" />
+        <AssociationConnector Association="artexModel.FK_PROVEEDOR_DIRECCION" />
+        <AssociationConnector Association="artexModel.PERSONA_FISICA_DIRECCION" />
+        <AssociationConnector Association="artexModel.FK_EMPLEADO_PERSONA" />
+        <AssociationConnector Association="artexModel.FK_RESPONSABLE" />
+        <AssociationConnector Association="artexModel.FK_UNIDAD_DE_NEGOCIO_EMPRESA" />
+        <AssociationConnector Association="artexModel.FK__descuento__ID_FA__673F4B05" />
+        <AssociationConnector Association="artexModel.FK__descuento__ID_LI__664B26CC" />
+        <AssociationConnector Association="artexModel.FK_FACTOR_CANAL_LINEA" />
+        <AssociationConnector Association="artexModel.FK__descuento__ID_PR__6A1BB7B0" />
+        <AssociationConnector Association="artexModel.FK_DESC_FAMILIA" />
+        <AssociationConnector Association="artexModel.FK_DESC_LINEA" />
+        <AssociationConnector Association="artexModel.FK__descuento__ID_PR__4C8B54C9" />
+        <AssociationConnector Association="artexModel.FK_DESC_PRODUCTO" />
+        <AssociationConnector Association="artexModel.FK__configura__ID_PI__153B1FDF" />
+        <AssociationConnector Association="artexModel.FK__configura__ID_PR__17236851" />
+        <AssociationConnector Association="artexModel.FK__formulaci__ID_PI__19FFD4FC" />
+        <AssociationConnector Association="artexModel.FK__formulaci__ID_PR__1AF3F935" />
+        <AssociationConnector Association="artexModel.FK_INSUMO_PRESENTACION_COMPRA" />
+        <AssociationConnector Association="artexModel.FK_INIDAD_NEGOCIO" />
+        <AssociationConnector Association="artexModel.FK_PRESENTACION_ENTREGA" />
+        <AssociationConnector Association="artexModel.FK_PERMISOS_ESPECIALES_MODULO" />
+        <AssociationConnector Association="artexModel.FK_PERMISOS_ROL" />
+        <AssociationConnector Association="artexModel.FK_PROVEEDOR_PERSONAcONTACTO" />
+        <AssociationConnector Association="artexModel.FK_PIEZA_PROD" />
+        <AssociationConnector Association="artexModel.FK_PROD_PIEZA" />
+        <AssociationConnector Association="artexModel.FK_PROCESO_DE_FABRICACION" />
+        <AssociationConnector Association="artexModel.AspNetUserRoles" />
+        <AssociationConnector Association="artexModel.atributo_mp" />
+        <AssociationConnector Association="artexModel.formulacion_comodin_copy1" />
+        <AssociationConnector Association="artexModel.permisos_especiales_rol" />
+        <AssociationConnector Association="artexModel.rol_modulo" />
+        <AssociationConnector Association="artexModel.tienda_empleados" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
